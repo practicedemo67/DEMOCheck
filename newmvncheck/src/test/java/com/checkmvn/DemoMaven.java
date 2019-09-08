@@ -6,6 +6,7 @@ public class DemoMaven {
 	@Test
 	public void check() {
 		System.out.println("=====maven chek======");
+		
 	}
 	@Test
 	public void check2() {
